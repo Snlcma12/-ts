@@ -53,6 +53,7 @@ Surfaces.prototype.twoWayHyperboloid = (count = 20, a = 2, b = 3, c = 4) => {
                  color1 = color2;
                  color2 = a;
              }
+             polygons.push(new Polygon([19, 0, 380, 399], "#808000"));
          }
    
 
