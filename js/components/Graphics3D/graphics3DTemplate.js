@@ -9,6 +9,7 @@ Template.prototype.graphics3DTemplate = () => `
             <option value="EllipticalParaboloid">гиперболоид с диаметрально</option>
             <option value="twoWayHyperboloid">гиперболоид</option>
             <option value="EllipticalCylinder">конус</option>
+            <option value="EllipticalCylinder23">Эллиптический цилиндр 23</option>
             <option value="hyperbolicParaboloid">Имя</option>
             <option value="MobiusStrip">Прозрачность</option>
         </select>
