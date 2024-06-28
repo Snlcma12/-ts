@@ -11,6 +11,8 @@ Template.prototype.graphics3DTemplate = () => `
             <option value="EllipticalCylinder">конус</option>
             <option value="EllipticalCylinder23">Эллиптический цилиндр 23</option>
             <option value="hyperbolicParaboloid">Имя</option>
+            <option value="OneWay">Треугольники</option>
+            <option value="OneWayHyperboloid">Ромбики</option>
             <option value="MobiusStrip">Прозрачность</option>
         </select>
     </div>
